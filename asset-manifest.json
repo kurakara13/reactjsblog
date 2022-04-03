@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/reactjsblog/static/css/main.436e6b47.css",
+    "main.js": "/reactjsblog/static/js/main.5db6b502.js",
+    "static/js/787.44b8b9bc.chunk.js": "/reactjsblog/static/js/787.44b8b9bc.chunk.js",
+    "static/media/bg.jpg": "/reactjsblog/static/media/bg.ef92db04e24b8997a788.jpg",
+    "static/media/revicons.eot": "/reactjsblog/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/reactjsblog/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/reactjsblog/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/logo.svg": "/reactjsblog/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/reactjsblog/index.html",
+    "main.436e6b47.css.map": "/reactjsblog/static/css/main.436e6b47.css.map",
+    "main.5db6b502.js.map": "/reactjsblog/static/js/main.5db6b502.js.map",
+    "787.44b8b9bc.chunk.js.map": "/reactjsblog/static/js/787.44b8b9bc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.436e6b47.css",
+    "static/js/main.5db6b502.js"
+  ]
+}
